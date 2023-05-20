@@ -2,7 +2,7 @@
 
 **`Desarrollador Web`**
 
-Hola, soy un desarrollador web fullstack siempre motivado a colaborar, pparticipar en nuevos proyectos y siempre con curiosidad para aprender mas.
+Hola, soy un desarrollador web fullstack dispuesto a colaborar, participar en nuevos proyectos y siempre con curiosidad para aprender mas.
 
 ---
 ## Lenguajes y Herramientas
