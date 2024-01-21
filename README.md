@@ -18,6 +18,11 @@ Hola, soy un desarrollador web fullstack dispuesto a colaborar, participar en nu
 <img align="left" alt="MongoDB" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="MySQL" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Git" width="26px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+## Rigth now:
+
+- 🔭 I’m currently working on SACMEX.
+- 🌱 I’m currently learning Angular, Next.js
             
 <!--
 
