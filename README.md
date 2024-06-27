@@ -21,7 +21,7 @@ Hola, soy un desarrollador web fullstack dispuesto a colaborar, participar en nu
 
 ## Actualmente:
 - 💼 Estoy trabajando de forma presencial en __SACMEX__.
-- 📚 Estoy aprendiendo __Angular__, __Next.js__.
+- 📚 Estoy aprendiendo __Angular__, __Next.js__ y __PostgreSQL__.
 <!--
 
 Here are some ideas to get you started:
